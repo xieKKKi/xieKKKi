@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xieKKKi
-- 👀 I’m interested in Robotics and CV
+- 👀 I’m interested in Robotics and Autonomous Driving
 - 📫 How to reach me : xiekkk@yeah.net
 
 <!---
