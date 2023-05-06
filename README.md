@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xieKKKi
+- 👋 Hi, I’m Jiapeng Xie@xieKKKi
 - 👀 I'm interested in 🤖robotic perception, 🌐localization, and 🗺️mapping.
 - 📫 How to reach me : xiekkk@yeah.net
 
