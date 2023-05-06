@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xieKKKi
-- 👀 I'm interested in 🤖robotic perception, 🌐localization, 🗺️mapping, 🧭planning, and 🔦exploration.
+- 👀 I'm interested in 🤖robotic perception, 🌐localization, and 🗺️mapping.
 - 📫 How to reach me : xiekkk@yeah.net
 
 
